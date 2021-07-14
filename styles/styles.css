@@ -255,7 +255,10 @@ select {
   }
   #container {
     flex-direction: column;
-    width: 40%;
+    width: 100%;
+  }
+  .container-form {
+    width: 100%;
   }
 }
 
