@@ -103,6 +103,12 @@ footer {
   margin: 0;
   padding-bottom: 33px;
 }
+/* -----------------------------------
+  
+      Form styles
+  
+  --------------------------------------*/
+
 #container {
   background-color: #fafafa;
   margin: 200px;
@@ -179,6 +185,12 @@ select {
   -o-transform: scale(1.03);
   box-shadow: 10px 12px 15px rgba(109, 23, 87, 0.3);
 }
+/* -----------------------------------
+  
+      Footer styles
+  
+  --------------------------------------*/
+
 
 .footer-section {
   display: flex;
