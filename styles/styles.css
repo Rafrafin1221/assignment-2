@@ -191,7 +191,6 @@ select {
   
   --------------------------------------*/
 
-
 .footer-section {
   display: flex;
   flex-direction: column;
@@ -254,8 +253,8 @@ select {
     width: 80%;
     height: 80%;
   }
-  #container{
-flex-direction: column;
+  #container {
+    flex-direction: column;
   }
 }
 
